@@ -93,7 +93,7 @@
 
 ### Tax Handling
 - **German Tax Reporting**: Automatic and comprehensive
-- **Withholding Tax**: Properly handled for German investors
+- **Withholding Tax**: Properly handled for investors
 - **Freistellungsauftrag**: Available up to €1,000
 - **Tax Optimization**: Automatic loss offsetting
 - **Documentation**: Comprehensive tax reporting
@@ -128,18 +128,12 @@
 
 ## Recommendations
 
-### For German Investors 🇩🇪
+### Rating 🇩🇪
 - **Consider if**: You value traditional banking and full service
 - **Current Action**: €3.99 trading makes it competitive until July 2025
 - **Best for**: Long-term investors, Sparkassen customers
 - **Avoid if**: You're cost-conscious or prefer modern platforms
 - **Alternative**: Trade Republic, Scalable Capital for lower costs
-
-### For Mexican Investors 🇲🇽
-- **Not Recommended**: High fees and limited international focus
-- **Better Alternatives**: Interactive Brokers, local Mexican brokers
-- **Complexity**: German tax handling not relevant
-- **Access**: Limited appeal for non-German residents
 
 ## Comparison with Competitors
 

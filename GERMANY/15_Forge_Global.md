@@ -130,43 +130,14 @@ Forge Global is a leading platform for private market securities, providing acce
 - **Tax-simple seekers** (complex international tax implications)
 - **European market focused** (primarily US companies)
 
-### 🇲🇽 For Mexican Investors
-
-#### Advantages
-- **Unique access**: Private market opportunities not available elsewhere
-- **Diversification**: Exposure to private US technology companies
-- **Professional platform**: Institutional-quality private market access
-- **Growth potential**: Access to high-growth pre-IPO companies
-
-#### Disadvantages
-- **Regulatory barriers**: May not be available to Mexican residents
-- **High barriers**: Accredited investor requirements
-- **Tax complexity**: Extremely complex US/Mexico tax implications
-- **Currency risk**: USD exposure and conversion costs
-- **Limited liquidity**: Difficult to exit private market investments
-
-#### Tax Implications
-- **US tax obligations**: Potential US tax withholding and reporting
-- **Mexican reporting**: Must report foreign private investments to SAT
-- **Professional advice**: Essential due to complexity
-- **FATCA compliance**: US reporting requirements
-- **Double taxation**: Potential double taxation issues
-
 ## 📈 Overall Rating
 
-### German Investors: ⭐⭐⭐☆☆ (3/5)
+### Rating: ⭐⭐⭐☆☆ (3/5)
 **Excellent for qualified investors but very limited accessibility**
 - Outstanding private market access and opportunities
 - High barriers to entry and complex regulations
 - Significant tax and compliance complications
 - Only suitable for sophisticated high-net-worth investors
-
-### Mexican Investors: ⭐⭐☆☆☆ (2/5)
-**Very limited applicability due to regulatory barriers**
-- Potentially excellent private market opportunities
-- Likely not available to Mexican residents
-- Extremely complex tax and regulatory implications
-- Consider other international investment options
 
 ---
 

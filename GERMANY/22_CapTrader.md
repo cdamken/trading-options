@@ -90,7 +90,7 @@
 ### Tax Handling
 - **German Tax Reporting**: Automatic for German securities
 - **Withholding Tax**: Partially handled by broker
-- **Freistellungsauftrag**: Available for German investors
+- **Freistellungsauftrag**: Available for investors
 - **Tax Optimization**: Limited automatic features
 
 ⚠️ **Note**: While German-regulated, complex tax situations may require manual handling
@@ -122,20 +122,12 @@
 
 ## Recommendations
 
-### For German Investors 🇩🇪
+### Rating 🇩🇪
 - **Consider if**: You're an active trader with €5,000+ portfolio
 - **Pros**: German regulation, competitive fees, professional tools
 - **Cons**: High minimum, no savings plans, complex platform
 - **Best for**: Options trading, international investing, active trading
 - **Alternative**: Trade Republic or Scalable Capital for simplicity
-
-### For Mexican Investors 🇲🇽
-- **Consider if**: You need professional trading tools and global access
-- **Pros**: European regulation, access to US/EU markets
-- **Cons**: High minimum deposit, complex Mexican tax reporting
-- **Currency**: EUR base currency adds complexity
-- **Requirements**: Professional trading experience recommended
-- **Alternative**: Interactive Brokers for direct access
 
 ## Comparison with Similar Platforms
 
@@ -149,7 +141,7 @@
 
 ## Key Takeaways
 1. **Professional Focus**: Excellent for experienced traders, complex for beginners
-2. **German Advantage**: BaFin regulation provides security for German investors
+2. **Local Advantage**: BaFin regulation provides security for local investors
 3. **Cost Structure**: Competitive for active trading, expensive for passive investing
 4. **Technology**: World-class platform but steep learning curve
 5. **Target Audience**: Professional traders and active investors only

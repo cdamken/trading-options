@@ -25,7 +25,7 @@
 
 ## Recommendations
 
-### For German Investors ⭐⭐⭐⭐⭐
+### Rating ⭐⭐⭐⭐⭐
 **Advantages:**
 - All ETF savings plans are free
 - No depot custody fees
@@ -40,21 +40,6 @@
 - No fractional shares for individual orders
 
 **Best For:** Long-term investors, ETF enthusiasts, those wanting full banking integration
-
-### For Mexican Investors ⭐⭐
-**Advantages:**
-- Reputable international bank
-- Strong EU regulatory framework
-- No depot fees
-- Wide ETF selection including emerging markets
-
-**Disadvantages:**
-- Account opening restricted to EU residents
-- No Spanish customer support
-- Currency conversion costs
-- Limited tax optimization for Mexican investors
-
-**Best For:** Mexican expats in Germany/EU with German tax residency
 
 ## Overall Rating: 8.5/10
 

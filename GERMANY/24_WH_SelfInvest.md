@@ -94,7 +94,7 @@
 - **German Tax Reporting**: Limited automatic handling
 - **Withholding Tax**: Manual processes required
 - **Freistellungsauftrag**: Not available (foreign broker)
-- **Tax Complexity**: Manual reporting required for German investors
+- **Tax Complexity**: Manual reporting required for investors
 
 ⚠️ **Important**: As a Luxembourg broker, German tax obligations must be handled manually
 
@@ -120,24 +120,17 @@
 - **Specialized** for professional and CFD trading
 - **Expensive** for casual stock investing
 - **Good** educational resources and platforms
-- **Complex** tax handling for German investors
+- **Complex** tax handling for investors
 - **Niche appeal** rather than broad market
 
 ## Recommendations
 
-### For German Investors 🇩🇪
+### Rating 🇩🇪
 - **Consider if**: You're a professional trader or CFD specialist
 - **Avoid if**: You want simple, cost-effective stock investing
 - **Tax Warning**: Manual German tax reporting required
 - **Best for**: CFD trading, futures, professional education
 - **Alternative**: Trade Republic or Scalable Capital for simple investing
-
-### For Mexican Investors 🇲🇽
-- **Limited Appeal**: High costs and complex products
-- **Better for**: Professional traders with CFD experience
-- **Complexity**: European regulation and tax complexity
-- **Requirements**: Significant trading experience recommended
-- **Alternative**: Local Mexican brokers or Interactive Brokers
 
 ## Comparison with Competitors
 
@@ -154,7 +147,7 @@
 2. **Expensive Stock Trading**: High fees make stock investing costly
 3. **Educational Excellence**: Outstanding training and webinars
 4. **Professional Target**: Designed for experienced traders
-5. **Tax Complexity**: Manual handling required for German investors
+5. **Tax Complexity**: Manual handling required for investors
 6. **Platform Quality**: High-quality professional trading platforms
 
 ---

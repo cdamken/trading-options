@@ -138,44 +138,14 @@ eToro, founded in 2007 in Israel, is the world's leading social trading platform
 - **High-frequency traders** (limited professional tools)
 - **Deposit safety focused** (lower protection vs. German banks)
 
-### 🇲🇽 For Mexican Investors
-
-#### Advantages
-- **Multi-asset access**: Stocks, ETFs, crypto in one platform
-- **Social learning**: Copy successful global traders
-- **International exposure**: Access to global markets
-- **Crypto variety**: Extensive cryptocurrency selection
-- **Educational resources**: Comprehensive learning materials
-
-#### Disadvantages
-- **Regulatory complexity**: Cyprus regulation may be unfamiliar
-- **Tax reporting**: Manual Mexican tax compliance required
-- **Currency risk**: EUR/USD exposure on platform
-- **Withdrawal fees**: $5 minimum withdrawal costs
-- **Time zones**: European trading hours may not align
-
-#### Tax Implications
-- **Mexican tax reporting**: Must report all foreign investments to SAT
-- **Capital gains**: 10% tax on gains for Mexican residents
-- **Dividend withholding**: May face European withholding taxes
-- **FATCA compliance**: Platform reports to Mexican authorities
-- **Documentation**: Keep detailed records for tax purposes
-
 ## 📈 Overall Rating
 
-### German Investors: ⭐⭐⭐☆☆ (3/5)
+### Rating: ⭐⭐⭐☆☆ (3/5)
 **Good for social trading, limited for traditional investing**
 - Excellent social features and crypto selection
 - Lower regulatory protection than German brokers
 - Complex tax handling requirements
 - Not ideal for traditional long-term savings
-
-### Mexican Investors: ⭐⭐⭐⭐☆ (4/5)
-**Strong option for diversified social trading**
-- Excellent for international diversification
-- Great educational and social features
-- Good crypto and multi-asset access
-- Requires careful tax compliance
 
 ---
 

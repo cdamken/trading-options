@@ -144,44 +144,14 @@ Revolut is a UK-based financial technology company founded in 2015, offering ban
 - **Desktop users** (mobile-first platform)
 - **Professional investors** (lacking advanced tools)
 
-### 🇲🇽 For Mexican Investors
-
-#### Advantages
-- **Global banking**: Multi-currency accounts and cards
-- **Commission-free trading**: €0 fees on international stocks
-- **Travel benefits**: Insurance and global perks
-- **Crypto access**: Built-in cryptocurrency trading
-- **International transfers**: Low-cost money transfers
-
-#### Disadvantages
-- **European focus**: Platform optimized for European markets
-- **Limited Mexican access**: No direct Mexican stock market access
-- **Account opening**: May require European address/residency
-- **Currency exposure**: EUR/GBP platform currency risks
-- **Tax complexity**: No Mexican tax integration
-
-#### Tax Implications
-- **Mexican reporting**: Must report all foreign investments to SAT
-- **Capital gains**: 10% tax on gains for Mexican residents
-- **Multi-jurisdiction**: Complex UK/Lithuania/Mexico tax obligations
-- **Professional advice**: Recommend tax professional consultation
-- **FATCA compliance**: Automatic reporting to Mexican authorities
-
 ## 📈 Overall Rating
 
-### German Investors: ⭐⭐⭐☆☆ (3/5)
+### Rating: ⭐⭐⭐☆☆ (3/5)
 **Good for global lifestyle, limited for serious investing**
 - Excellent for international banking + basic trading
 - Strong travel and multi-currency features
 - Limited trading tools and German market focus
 - Better for lifestyle than serious investment strategies
-
-### Mexican Investors: ⭐⭐⭐⭐☆ (4/5)
-**Excellent for international diversification and travel**
-- Outstanding global banking and travel benefits
-- Commission-free international stock access
-- Multi-currency capabilities ideal for Mexican travelers
-- Consider alongside local Mexican brokers for complete coverage
 
 ---
 

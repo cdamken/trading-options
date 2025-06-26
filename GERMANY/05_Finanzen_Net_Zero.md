@@ -124,42 +124,14 @@ Finanzen.net Zero is the brokerage arm of Germany's leading financial informatio
 - **Professional traders** (lacking advanced features)
 - **Multi-exchange users** (Gettex only)
 
-### 🇲🇽 For Mexican Investors
-
-#### Advantages
-- **German regulation**: Strong investor protection
-- **Research integration**: Comprehensive financial analysis
-- **ETF selection**: Access to European ETF universe
-- **Cost efficiency**: Low fees for larger orders
-
-#### Disadvantages
-- **European focus**: Limited relevance for Mexican markets
-- **Account opening**: Requires European residency
-- **Currency risk**: EUR exposure for platform operations
-- **Tax complexity**: No Mexican tax integration
-- **Time zones**: European market hours only
-
-#### Tax Implications
-- **Mexican reporting**: Must report foreign investments to SAT
-- **Capital gains**: 10% tax on gains for Mexican residents
-- **EU withholding**: European dividend taxes may apply
-- **Professional advice**: Complex cross-border tax issues
-
 ## 📈 Overall Rating
 
-### German Investors: ⭐⭐⭐⭐☆ (4/5)
+### Rating: ⭐⭐⭐⭐☆ (4/5)
 **Excellent for research-focused ETF investors**
 - Outstanding research integration
 - Competitive fees for regular trading
 - Strong German regulation and protection
 - Limited by single exchange and no cash interest
-
-### Mexican Investors: ⭐⭐☆☆☆ (2/5)
-**Limited relevance for Mexican investors**
-- Strong platform but geographic limitations
-- Better options available for Mexican market access
-- Complex account opening and tax implications
-- Consider local Mexican or US brokers instead
 
 ---
 

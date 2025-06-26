@@ -93,13 +93,12 @@ Trade Republic is the German neobroker that started the mobile-first, commission
 | Factor | Rating | Details |
 |--------|---------|---------|
 | **Fees & Costs** | ⭐⭐⭐⭐⭐ | €1 per trade, 0% depot fees, 2.25% cash interest |
-| **German Recommendation** | ⭐⭐⭐⭐⭐ | **TOP CHOICE** - Perfect for German residents |
-| **Mexican Recommendation** | ⭐⭐ | **NOT RECOMMENDED** - Complex tax reporting |
+| **Investor Rating** | ⭐⭐⭐⭐⭐ | **TOP CHOICE** - Perfect for investors |
 | **Ease of Use** | ⭐⭐⭐⭐⭐ | Mobile-first, intuitive design |
 | **Product Range** | ⭐⭐⭐⭐ | 9,000+ stocks, 2,600+ ETFs, crypto |
 | **Reliability** | ⭐⭐⭐ | Frequent outages during volatility |
 | **Customer Service** | ⭐⭐⭐ | Slow response times, digital-only |
-| **Tax Complexity** | ⭐⭐⭐⭐⭐ (DE) / ⭐⭐ (MX) | Simple for Germans, complex for Mexicans |
+| **German Tax Efficiency** | ⭐⭐⭐⭐⭐ | Automatic tax handling, Freistellungsauftrag |
 
 ## Fee Structure (Detailed)
 
@@ -130,15 +129,15 @@ Trade Republic is the German neobroker that started the mobile-first, commission
 
 ## German Investor Assessment
 
-### ✅ **HIGHLY RECOMMENDED for Germans**
-**Why Trade Republic is perfect for German investors:**
+### ✅ **HIGHLY RECOMMENDED**
+**Why Trade Republic is an excellent choice:**
 - **Tax Simplicity**: Automatic Abgeltungssteuer handling
 - **Regulatory Comfort**: BaFin regulation, German deposit protection
 - **Cost Leadership**: Lowest fees in German market
-- **User Experience**: Designed specifically for German investors
+- **User Experience**: Designed specifically for local market investors
 - **Local Support**: German customer service and documentation
 
-### **Best For German Investors:**
+### **Best For:**
 - Beginners to intermediate investors
 - ETF-focused long-term investors  
 - Mobile-first users
@@ -151,29 +150,7 @@ Trade Republic is the German neobroker that started the mobile-first, commission
 - Do extensive options trading
 - Need immediate phone support
 
-## Mexican Investor Assessment
+## 🇩🇪 Overall Rating
+⭐⭐⭐⭐⭐ **5/5 - Excellent Choice**
 
-### ❌ **NOT RECOMMENDED for Mexicans**
-**Why Trade Republic is problematic for Mexican investors:**
-- **No CNBV Regulation**: No Mexican regulatory protection
-- **Complex Tax Reporting**: Must manually report to SAT
-- **Currency Risk**: Forced EUR exposure
-- **No Spanish Support**: German/English only
-- **Account Access**: Difficult for non-EU residents
-
-### **Tax Complications for Mexicans:**
-- Must report all foreign accounts to SAT
-- Complex capital gains calculations in MXN
-- No automatic tax withholding
-- Requires professional tax assistance
-- FATCA reporting requirements
-
-### **Better Mexican Alternatives:**
-1. **GBM** - Market leader with CNBV protection
-2. **Kuspit** - Better for beginners with education
-3. **Hey Banco** - Modern platform with banking integration
-
-## Overall Rating
-- **For Germans**: ⭐⭐⭐⭐⭐ (5/5) - Top choice
-- **For Mexicans**: ⭐⭐ (2/5) - Avoid due to complications
-- **Global Average**: ⭐⭐⭐⭐ (4/5) - Excellent for target market
+**Perfect for**: Investors seeking mobile-first investing with automatic tax compliance, banking integration, and competitive returns on cash.

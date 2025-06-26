@@ -161,43 +161,14 @@ XTB is a Polish financial services company founded in 2004, now operating in 12+
 - **Conservative investors** (CFD focus may not align)
 - **German-first preference** users
 
-### 🇲🇽 For Mexican Investors
-
-#### Advantages
-- **Professional platform**: Institutional-quality trading tools
-- **International markets**: Access to global stocks and ETFs
-- **24/7 crypto trading**: Continuous cryptocurrency access
-- **High volume benefits**: €100k commission-free monthly limit
-- **Educational resources**: Comprehensive trading education
-
-#### Disadvantages
-- **European focus**: Platform optimized for European markets
-- **Complex taxation**: CFD and international tax implications
-- **Currency exposure**: EUR/USD platform currency risk
-- **Regulatory distance**: Polish/German regulation unfamiliar
-- **Time zones**: European trading hours
-
-#### Tax Implications
-- **Mexican reporting**: All foreign investments must be reported to SAT
-- **CFD taxation**: Complex rules for derivative trading
-- **Capital gains**: 10% tax on gains for Mexican residents
-- **Withholding taxes**: European dividend withholding may apply
-- **Professional advice**: Recommend tax professional consultation
-
 ## 📈 Overall Rating
 
-### German Investors: ⭐⭐⭐⭐☆ (4/5)
+### Rating: ⭐⭐⭐⭐☆ (4/5)
 **Excellent for active traders, good for professionals**
 - Outstanding platform and tools
 - Competitive pricing for high volume
 - Strong regulatory protection
 - Less suitable for passive investors
-
-### Mexican Investors: ⭐⭐⭐☆☆ (3/5)
-**Professional platform but complexity challenges**
-- Excellent tools and international access
-- Complex tax and regulatory considerations
-- Better suited for experienced traders
 - Consider local or US brokers for simplicity
 
 ---

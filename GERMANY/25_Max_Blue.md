@@ -101,7 +101,7 @@ Max Blue is the direct banking platform of Deutsche Bank, offering digital inves
 - **Branch Access**: Limited access to Deutsche Bank branches
 
 ## Suitable For
-- **German Residents**: Optimized for German tax and regulatory environment
+- **Investors**: Optimized for German tax and regulatory environment
 - **ETF Investors**: Attractive for passive investment strategies
 - **Long-term Investors**: Good for buy-and-hold strategies with savings plans
 - **Deutsche Bank Customers**: Existing bank customers seeking investment services

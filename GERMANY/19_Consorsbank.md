@@ -25,7 +25,7 @@
 
 ## Recommendations
 
-### For German Investors ⭐⭐⭐⭐⭐
+### Rating ⭐⭐⭐⭐⭐
 **Advantages:**
 - No depot custody fees
 - Professional trading platform with advanced tools
@@ -41,21 +41,6 @@
 - Complex fee structure for different trading venues
 
 **Best For:** Active traders, international investors, those wanting professional research and tools
-
-### For Mexican Investors ⭐⭐
-**Advantages:**
-- Strong international broker with global reach
-- Comprehensive market access
-- Professional research and analysis
-- Part of international banking group (BNP Paribas)
-
-**Disadvantages:**
-- Account opening limited to EU residents
-- No Spanish customer support
-- Higher fees than local Mexican options
-- Currency conversion costs
-
-**Best For:** Mexican investors with EU residency seeking international market access
 
 ## Overall Rating: 8.5/10
 

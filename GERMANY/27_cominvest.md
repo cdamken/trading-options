@@ -118,7 +118,7 @@
 ❌ Higher fees compared to pure robo-advisors
 ❌ Higher minimum investment requirement
 ❌ Limited customization options
-❌ Only available for German residents
+❌ Only available to investors in Germany
 ❌ No guarantee of outperformance
 ❌ Dependency on comdirect banking relationship
 

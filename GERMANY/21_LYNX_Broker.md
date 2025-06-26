@@ -119,18 +119,11 @@
 
 ## Recommendations
 
-### For German Investors 🇩🇪
+### Rating 🇩🇪
 - **Consider if**: You're an active trader with €10,000+ and need professional tools
 - **Avoid if**: You're a beginner or prefer simple, passive investing
 - **Tax Planning**: Consult a tax advisor for German reporting obligations
 - **Alternative**: Consider Trade Republic or Scalable Capital for simplicity
-
-### For Mexican Investors 🇲🇽
-- **Consider if**: You're a professional trader needing global market access
-- **Pros**: Access to US/European markets, professional tools
-- **Cons**: Complex Mexican tax reporting, no local support
-- **Currency**: EUR/USD exposure adds complexity
-- **Alternative**: Interactive Brokers might be simpler for Mexican investors
 
 ## Key Takeaways
 1. LYNX is ideal for professional traders but overkill for casual investors

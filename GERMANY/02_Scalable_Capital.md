@@ -119,41 +119,15 @@ Scalable Capital started as a robo-advisor in 2016 and evolved into a comprehens
 - **Crypto enthusiasts** (no crypto trading)
 - **Day traders** (limited real-time tools)
 
-### 🇲🇽 For Mexican Investors
-
-#### Advantages
-- **EU regulation**: Strong investor protections
-- **Diversification**: Access to European markets
-- **Professional management**: Robo-advisor options
-
-#### Disadvantages
-- **Tax complexity**: No automatic Mexican tax reporting
-- **Currency risk**: EUR/USD exposure
-- **Account opening**: Requires European residency/address
-- **Time zone**: European trading hours
-
-#### Tax Implications
-- **Mexican residents**: Must report foreign investments to SAT
-- **Capital gains**: Subject to Mexican tax rates (10% for residents)
-- **Dividend withholding**: EU withholding tax may apply
-- **FATCA/CRS**: Automatic reporting to Mexican tax authorities
-
 ## 📈 Overall Rating
 
-### German Investors: ⭐⭐⭐⭐⭐ (5/5)
-**Excellent choice for most German investors**
+### Rating: ⭐⭐⭐⭐⭐ (5/5)
+**Excellent choice for most investors**
 - Top-tier regulation and investor protection
 - Competitive pricing with flexible models
 - Strong cash interest rates
 - Comprehensive ETF selection
 - Automatic tax handling
-
-### Mexican Investors: ⭐⭐⭐☆☆ (3/5)
-**Possible but complex**
-- Strong platform but regulatory barriers
-- Tax reporting complications
-- Currency and time zone challenges
-- Consider IB or local Mexican brokers instead
 
 ---
 

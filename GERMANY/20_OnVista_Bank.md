@@ -26,7 +26,7 @@
 
 ## Recommendations
 
-### For German Investors ⭐⭐⭐⭐
+### Rating ⭐⭐⭐⭐
 **Advantages:**
 - FreeBuy options for many popular ETFs
 - Fixed price trading available
@@ -42,21 +42,6 @@
 - Customer service not 24/7
 
 **Best For:** Long-term investors, ETF savers, users of OnVista portal, cost-conscious investors
-
-### For Mexican Investors ⭐⭐
-**Advantages:**
-- Part of established German banking group
-- Good selection of international ETFs
-- Competitive fixed-price trading
-- Access to OnVista research and data
-
-**Disadvantages:**
-- Account opening restricted to EU residents
-- No Spanish customer support
-- Limited emerging market access
-- Currency conversion costs
-
-**Best For:** Mexican investors in Germany seeking cost-effective ETF investing
 
 ## Overall Rating: 7.5/10
 

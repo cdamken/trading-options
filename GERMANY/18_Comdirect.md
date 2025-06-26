@@ -25,7 +25,7 @@
 
 ## Recommendations
 
-### For German Investors ⭐⭐⭐⭐⭐
+### Rating ⭐⭐⭐⭐⭐
 **Advantages:**
 - Comprehensive trading platform with professional features
 - Excellent research and analysis tools
@@ -40,21 +40,6 @@
 - Savings plan fees for most ETFs
 
 **Best For:** Active traders, investors wanting professional tools, those needing comprehensive support
-
-### For Mexican Investors ⭐⭐
-**Advantages:**
-- International market access
-- Professional trading platform
-- Strong research capabilities
-- Established German bank
-
-**Disadvantages:**
-- Account opening limited to EU residents
-- No Spanish support
-- Higher fees than modern competitors
-- Currency conversion costs
-
-**Best For:** Sophisticated Mexican investors with EU residency
 
 ## Overall Rating: 8.5/10
 

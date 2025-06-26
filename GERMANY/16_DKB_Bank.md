@@ -25,7 +25,7 @@
 
 ## Recommendations
 
-### For German Investors ⭐⭐⭐⭐
+### Rating ⭐⭐⭐⭐
 **Advantages:**
 - Reliable German bank with full banking services
 - Competitive fees for savings plans
@@ -40,20 +40,6 @@
 - No fractional shares
 
 **Best For:** Long-term investors, ETF savers, those wanting integrated banking services
-
-### For Mexican Investors ⭐⭐
-**Advantages:**
-- Established German bank with good reputation
-- EU regulatory protection
-- EUR denomination for European exposure
-
-**Disadvantages:**
-- Account opening difficult for non-EU residents
-- No Spanish support
-- Currency conversion costs
-- Limited Mexican tax optimization
-
-**Best For:** Mexican investors living in Germany or with EU residency
 
 ## Overall Rating: 7.5/10
 

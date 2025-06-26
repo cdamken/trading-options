@@ -1,22 +1,24 @@
 # GBM (Grupo Bursátil Mexicano)
+*Mexico's Leading Investment Platform*
 
-## Quick Comparison Summary
+## 🇲🇽 Quick Analysis for Mexican Investors
 | Factor | Rating | Details |
 |--------|---------|---------|
 | **Fees & Costs** | ⭐⭐⭐⭐ | 0.25-0.50% trading, Smart Cash 10-11% returns |
-| **Mexican Recommendation** | ⭐⭐⭐⭐⭐ | **TOP CHOICE** - Market leader, full CNBV regulation |
-| **German Recommendation** | ⭐⭐ | **NOT RECOMMENDED** - No EU access, complex taxes |
+| **Mexican Investor Rating** | ⭐⭐⭐⭐⭐ | **TOP CHOICE** - Market leader, full CNBV regulation |
 | **Ease of Use** | ⭐⭐⭐⭐ | Professional platform, multiple service tiers |
 | **Product Range** | ⭐⭐⭐⭐⭐ | Comprehensive: stocks, ETFs, funds, Smart Cash, bonds |
-| **Reliability** | ⭐⭐⭐⭐⭐ | Market leader, established platform |
+| **Reliability** | ⭐⭐⭐⭐⭐ | Market leader, established platform since 1990 |
 | **Customer Service** | ⭐⭐⭐⭐⭐ | Excellent Spanish support, multiple channels |
-| **Tax Complexity** | ⭐⭐⭐⭐⭐ (MX) / ⭐⭐ (DE) | Automatic Mexican compliance, complex for Germans |
+| **Tax Simplicity for Mexicans** | ⭐⭐⭐⭐⭐ | Automatic CNBV compliance, 10% withholding |
+| **Peso-Based Benefits** | ⭐⭐⭐⭐⭐ | Smart Cash MXN 10-11%, no currency risk |
 
-## Overview
-**Regulatory Location**: Mexico (CNBV regulated)  
-**Founded**: 1990  
-**Type**: Full-service Mexican brokerage and investment house  
-**Target Audience**: All investor levels (Plus, Personal, Premium, Private)  
+## Overview for Mexican Investors
+**Regulatory Status**: Mexico (CNBV regulated) - Perfect for Mexican tax residents  
+**Founded**: 1990 - Over 30 years serving Mexican investors  
+**Platform Type**: Full-service Mexican brokerage and investment house  
+**Service Tiers**: Plus, Personal, Premium, Private (all Mexican resident focused)  
+**Primary Market**: Mexican investors seeking comprehensive investment services  
 
 ## Products Offered
 - **Trading**: Mexican stocks (BMV, BIVA), US stocks (NYSE, NASDAQ), ETFs, FIBRAs

@@ -1,9 +1,31 @@
 # Trading Options Analysis Project
-*Country-specific investment broker analysis for German and Mexican investors*
+*Country-specifi### 🇲🇽 Mexican Analysis Priorities:
+1. **CNBV Regulation** - Mexican securities commission oversight
+2. **Tax Simplification** - Automatic 10% withholding compliance
+3. **Mexi### 🇲🇽 Mexico
+1. **GBM** - Market leader with comprehensive services
+2. **Kuspit** - Best for beginners with educational focus
+3. **Hey Banco** - Top choice for digital natives
+4. **Actinver** - Premium wealth management for high-net-worth
+
+### 🇦🇷 Argentina
+1. **Balanz** - Premium wealth management for high-net-worth investors
+2. **InvertirOnline** - Market leader for cost-conscious retail investors
+3. **Binance** - Essential for crypto-based USD access and inflation hedging
+4. **Interactive Brokers** - Professional international market accessarket Access** - BMV, Mexican stocks, FIBRAS
+4. **MXN Interest Rates** - High peso returns (GBM Smart Cash 10-11%)
+5. **Mexican Banking Integration** - Local banking and payment systems
+
+### 🇦🇷 Argentine Analysis Priorities:
+1. **CNV Regulation** - Argentine securities commission oversight
+2. **Currency Access Management** - MEP dollar, CCL, crypto USD access
+3. **Inflation Hedging** - USD exposure, stablecoins, foreign assets
+4. **ARS Interest Optimization** - High peso yields while hedging risk
+5. **AFIP Compliance** - Tax reporting and Bienes Personales considerationsstment broker analysis for German, Mexican, and Argentine investors*
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Coverage](https://img.shields.io/badge/brokers-43%20platforms-green.svg)
-![Countries](https://img.shields.io/badge/countries-Germany%20%7C%20Mexico-orange.svg)
+![Coverage](https://img.shields.io/badge/brokers-49%20platforms-green.svg)
+![Countries](https://img.shields.io/badge/countries-Germany%20%7C%20Mexico%20%7C%20Argentina-orange.svg)
 ![Updated](https://img.shields.io/badge/updated-2025-brightgreen.svg)
 
 ## 🎯 Project Philosophy
@@ -14,7 +36,7 @@ This repository provides **completely separate, country-specific analysis** of i
 
 **This is educational content, not financial advice.** Always consult with qualified financial and tax professionals before making investment decisions. Broker fees, regulations, and features change frequently - verify current information directly with brokers.
 
-## � Completely Separate Country Analysis
+## 🏛️ Completely Separate Country Analysis
 
 ### 🇩🇪 Germany Analysis - Exclusively for German Residents
 - **29 Investment Platforms** analyzed purely for German tax residents
@@ -32,6 +54,14 @@ This repository provides **completely separate, country-specific analysis** of i
 - **Spanish Language Support** - Native customer service emphasis
 - **Target Audience**: Mexican residents and taxpayers ONLY
 
+### 🇦🇷 Argentina Analysis - Exclusively for Argentine Residents
+- **10 Investment Platforms** analyzed purely for Argentine tax residents
+- **CNV Regulation Focus** - Argentine securities commission oversight
+- **Currency Controls Navigation** - MEP dollar, CCL operations, inflation hedging
+- **Peso-Denominated Focus** - Argentine markets with USD access strategies
+- **Spanish Language Support** - Native customer service emphasis
+- **Target Audience**: Argentine residents and taxpayers ONLY
+
 ## 📊 Key Differences in Approach
 
 ### 🇩🇪 German Analysis Priorities:
@@ -41,12 +71,12 @@ This repository provides **completely separate, country-specific analysis** of i
 4. **EUR Interest Rates** - Cash management in euros
 5. **German Banking Integration** - SEPA, German IBAN support
 
-### 🇲🇽 Mexican Analysis Priorities:
-1. **CNBV Regulation** - Mexican securities commission oversight
-2. **Tax Simplification** - Automatic 10% withholding compliance
-3. **Mexican Market Access** - BMV, Mexican stocks, FIBRAS
-4. **MXN Interest Rates** - High peso returns (GBM Smart Cash 10-11%)
-5. **Mexican Banking Integration** - Local banking and payment systems
+### �� Argentine Analysis Priorities:
+1. **CNV Regulation** - Argentine securities commission oversight
+2. **Currency Access Management** - MEP dollar, CCL, crypto USD access
+3. **Inflation Hedging** - USD exposure, stablecoins, foreign assets
+4. **ARS Interest Optimization** - High peso yields while hedging risk
+5. **AFIP Compliance** - Tax reporting and Bienes Personales considerations
 
 ## 🏆 Country-Specific Top Recommendations
 
@@ -59,6 +89,11 @@ This repository provides **completely separate, country-specific analysis** of i
 1. **GBM** - Market leader with Smart Cash 10-11% MXN returns
 2. **Kuspit** - Best for beginners with $100 MXN minimum
 3. **Hey Banco** - Digital banking integration with competitive rates
+
+### 🇦🇷 Best for Argentine Residents:
+1. **Balanz** - Premium wealth management with international access
+2. **InvertirOnline** - Lowest cost retail broker with CNV regulation
+3. **Binance** - Crypto-first USD access and inflation hedging
 
 ## ⚠️ Why We Separated the Analysis
 
@@ -88,6 +123,11 @@ This repository provides **completely separate, country-specific analysis** of i
 - Mexican tax and regulatory compliance
 - Peso-denominated investing strategies
 
+### For Argentine Market Questions:
+- Focus on CNV-regulated platforms
+- Currency controls and USD access navigation
+- Inflation hedging and peso protection strategies
+
 ### General Project Questions:
 - Repository structure and methodology
 - Contributing guidelines and standards
@@ -95,7 +135,7 @@ This repository provides **completely separate, country-specific analysis** of i
 
 ---
 
-**Disclaimer**: Each country's analysis is designed exclusively for residents of that country. German analysis is not applicable to Mexican residents and vice versa. Always consult with qualified financial advisors familiar with your specific country's tax laws and regulations.
+**Disclaimer**: Each country's analysis is designed exclusively for residents of that country. German analysis is not applicable to Mexican or Argentine residents, Mexican analysis is not applicable to German or Argentine residents, and Argentine analysis is not applicable to German or Mexican residents. Always consult with qualified financial advisors familiar with your specific country's tax laws and regulations.
 
 ⭐ **Found this helpful? Please star this repository to help others discover country-specific broker analysis!**
 
@@ -151,11 +191,21 @@ Trading_options/
 │   ├── 12_Banco_Multiva.md          # Fund provider
 │   └── README.md                    # Mexican analysis overview
 │
+├── ARGENTINA/                       # Argentine Investor Analysis
+│   ├── 00_Complete_Argentine_Comparison.md # Master comparison and ranking
+│   ├── 01_Balanz.md                 # Premium wealth management
+│   ├── 02_InvertirOnline.md         # Retail market leader
+│   ├── 03_Binance.md                # Global crypto leader
+│   ├── 04_Interactive_Brokers.md    # International access
+│   ├── 05_Lemon_Cash.md             # Mobile-first crypto
+│   ├── 06_Bull_Market_Brokers.md    # Traditional brokerage
+│   └── README.md                    # Argentine analysis overview
+│
 └── .vscode/
     └── tasks.json                   # VS Code tasks
 ```
 
-## 🎯 Key Differences: Germany vs Mexico
+## 🎯 Key Differences: Germany vs Mexico vs Argentina
 
 ### German Investors Face:
 - **Complex EU Regulations**: Multiple regulatory jurisdictions
@@ -171,6 +221,13 @@ Trading_options/
 - **Clear Tax Treatment**: Straightforward income tax integration
 - **Strong Local Options**: Competitive domestic platforms
 
+### Argentine Investors Navigate:
+- **Currency Control Complexity**: MEP dollar, CCL, and crypto access needs
+- **High Inflation Environment**: Constant purchasing power protection required
+- **Regulatory Evolution**: Improving but still developing crypto framework
+- **USD Access Priority**: Foreign asset acquisition for hedging
+- **Tax Complexity**: AFIP reporting and Bienes Personales considerations
+
 ## 🏆 Top Recommendations
 
 ### 🇩🇪 Germany
@@ -179,11 +236,11 @@ Trading_options/
 3. **Interactive Brokers** - Professional platform for active traders
 4. **DEGIRO** - Cost leader for ETF investors
 
-### 🇲🇽 Mexico
-1. **GBM** - Market leader with comprehensive services
-2. **Kuspit** - Best for beginners with educational focus
-3. **Hey Banco** - Top choice for digital natives
-4. **Actinver** - Premium wealth management for high-net-worth
+### �� Argentina
+1. **Balanz** - Premium wealth management for high-net-worth investors
+2. **InvertirOnline** - Market leader for cost-conscious retail investors
+3. **Binance** - Essential for crypto-based USD access and inflation hedging
+4. **Interactive Brokers** - Professional international market access
 
 ## 🚨 Key Warnings
 
@@ -197,6 +254,11 @@ Trading_options/
 - **Avoid eToro completely** due to regulatory and tax complications
 - **Be cautious with US brokers** unless global access essential
 
+### For Argentine Investors:
+- **Prioritize CNV-regulated local brokers** for peso-denominated investments
+- **Use multiple platforms** for currency diversification and inflation hedging
+- **Consider crypto platforms** essential for USD access and purchasing power protection
+
 ## 📊 Cost Analysis Summary
 
 ### Germany (Annual Cost of Ownership)
@@ -208,6 +270,11 @@ Trading_options/
 - **Low Cost**: Kuspit, Hey Banco (~0.25-0.4%)
 - **Moderate Cost**: GBM (~0.4-0.8%)
 - **High Cost**: Actinver, Traditional Banks (~1.5-3.5%)
+
+### Argentina (Annual Cost of Ownership)
+- **Low Cost**: InvertirOnline, Lemon Cash (~0.25-0.5%)
+- **Moderate Cost**: Balanz, Binance (~0.5-1.0%)
+- **High Cost**: Traditional Brokers, International Platforms (~1.0-2.5%)
 
 ## 🔍 Analysis Methodology
 
@@ -252,8 +319,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Last Updated**: 2025  
-**Analysis Coverage**: Germany, Mexico  
-**Total Brokers Analyzed**: 43 platforms  
+**Analysis Coverage**: Germany, Mexico, Argentina  
+**Total Brokers Analyzed**: 49 platforms  
 **Focus**: Regulatory compliance, tax optimization, cost transparency
 
 ⭐ **Found this helpful? Please star this repository to help others discover comprehensive broker analysis!**

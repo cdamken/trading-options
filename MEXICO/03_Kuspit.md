@@ -5,12 +5,11 @@
 |--------|---------|---------|
 | **Fees & Costs** | ⭐⭐⭐⭐⭐ | 0.15-0.35% trading, $100 MXN minimum |
 | **Mexican Recommendation** | ⭐⭐⭐⭐⭐ | **BEST FOR BEGINNERS** - Educational focus, low barriers |
-| **German Recommendation** | ⭐⭐ | **NOT RECOMMENDED** - No EU access |
 | **Ease of Use** | ⭐⭐⭐⭐⭐ | Excellent UX, educational integration, free simulator |
 | **Product Range** | ⭐⭐⭐ | Good selection but limited vs full-service brokers |
 | **Reliability** | ⭐⭐⭐⭐ | CNBV regulated, newer platform (2017) |
 | **Customer Service** | ⭐⭐⭐⭐ | Good digital support, educational focus |
-| **Tax Complexity** | ⭐⭐⭐⭐⭐ (MX) / ⭐ (DE) | Perfect Mexican compliance, N/A for Germans |
+| **Tax Complexity** | ⭐⭐⭐⭐⭐ | Perfect Mexican compliance |
 
 ## Overview
 **Regulatory Location**: Mexico (CNBV regulated)  
@@ -99,8 +98,8 @@
 
 ## Mexican Investor Assessment
 
-### ✅ **HIGHLY RECOMMENDED for Mexican Beginners**
-**Why Kuspit is perfect for new Mexican investors:**
+### ✅ **HIGHLY RECOMMENDED for Beginners**
+**Why Kuspit is perfect for new investors:**
 - **Ultra-Low Barriers**: $100 MXN minimum breaks down entry barriers
 - **Educational Excellence**: Free simulator and courses build confidence
 - **CNBV Protection**: Full Mexican regulatory oversight and compliance
@@ -108,7 +107,7 @@
 - **Competitive Costs**: Among lowest fees in Mexican market
 - **Growth Path**: Can handle increasing sophistication over time
 
-### **Best For Mexican Investors:**
+### **Best For:**
 - Complete beginners wanting to learn investing
 - Young investors with small initial amounts
 - Education-focused users who want to understand markets
@@ -120,22 +119,7 @@
 - **Hey Banco** if wanting integrated banking services
 - **Actinver** if graduating to wealth management needs
 
-## German Investor Assessment
-
-### ❌ **NOT AVAILABLE for Germans**
-**Why Kuspit cannot serve German investors:**
-- **Geographic Restriction**: Mexico-focused platform, no EU license
-- **No BaFin Regulation**: Cannot operate in German market
-- **Currency Limitation**: MXN-focused, not suitable for EUR-based investors
-- **Market Access**: Mexican markets only, no European market access
-
-### **Similar German Alternatives for Beginners:**
-1. **Trade Republic** - Mobile-first, low fees, beginner-friendly
-2. **Scalable Capital** - Educational resources, robo-advisor
-3. **justTRADE** - Zero commission trading for beginners
-4. **Comdirect** - Strong educational platform (higher fees)
-
-## Tax Implications for Mexican Residents
+## Tax Implications for Investors
 ### CNBV Regulation Benefits
 - **Automatic Withholding**: 10% capital gains withholding
 - **ISR Compliance**: Simplified tax reporting
@@ -185,6 +169,5 @@
 4. **CNBV Regulation** - Safety with innovation
 
 ## Overall Rating
-- **For Mexicans**: ⭐⭐⭐⭐⭐ (5/5) - Perfect for beginners
-- **For Germans**: N/A - Not available
+- **Overall Rating**: ⭐⭐⭐⭐⭐ (5/5) - Perfect for beginners
 - **Innovation Score**: ⭐⭐⭐⭐⭐ (5/5) - Leading educational approach

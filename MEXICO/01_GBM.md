@@ -10,7 +10,7 @@
 | **Product Range** | ⭐⭐⭐⭐⭐ | Comprehensive: stocks, ETFs, funds, Smart Cash, bonds |
 | **Reliability** | ⭐⭐⭐⭐⭐ | Market leader, established platform since 1990 |
 | **Customer Service** | ⭐⭐⭐⭐⭐ | Excellent Spanish support, multiple channels |
-| **Tax Simplicity for Mexicans** | ⭐⭐⭐⭐⭐ | Automatic CNBV compliance, 10% withholding |
+| **Tax Simplicity** | ⭐⭐⭐⭐⭐ | Automatic CNBV compliance, 10% withholding |
 | **Peso-Based Benefits** | ⭐⭐⭐⭐⭐ | Smart Cash MXN 10-11%, no currency risk |
 
 ## Overview for Mexican Investors
@@ -65,8 +65,8 @@
 
 ## Mexican Investor Assessment
 
-### ✅ **HIGHLY RECOMMENDED for Mexicans**
-**Why GBM is perfect for Mexican investors:**
+### ✅ **HIGHLY RECOMMENDED**
+**Why GBM is an excellent choice:**
 - **CNBV Regulation**: Full Mexican regulatory protection and oversight
 - **Tax Simplicity**: Automatic 10% withholding, simplified ISR reporting
 - **Market Leadership**: Largest trading volume, superior liquidity
@@ -74,7 +74,7 @@
 - **Comprehensive Service**: Everything from basic trading to wealth management
 - **Local Expertise**: Deep Mexican market knowledge and Spanish support
 
-### **Best For Mexican Investors:**
+### **Best For:**
 - Active traders needing professional tools
 - Investors wanting comprehensive wealth management
 - Those seeking excellent liquidity (Smart Cash)
@@ -86,29 +86,6 @@
 - Prefer pure digital experience (Hey Banco)
 - Want lowest possible fees (Kuspit)
 - Need only basic investment services
-
-## German Investor Assessment
-
-### ❌ **NOT RECOMMENDED for Germans**
-**Why GBM is problematic for German investors:**
-- **No EU Access**: Not available to German residents
-- **No BaFin Regulation**: No German/EU regulatory protection
-- **Complex Tax Reporting**: Would require manual German tax calculations
-- **Currency Risk**: Forced MXN exposure problematic for Germans
-- **No German Support**: Spanish/English only, no German services
-
-### **Tax Complications for Germans:**
-- No automatic German tax withholding
-- Complex Abgeltungssteuer calculations required
-- Foreign account reporting requirements
-- Professional tax assistance needed
-- No EU financial services protections
-
-### **Better German Alternatives:**
-1. **Trade Republic** - Perfect for German mobile-first users
-2. **Scalable Capital** - Comprehensive German platform
-3. **Interactive Brokers** - Professional trading tools
-4. **DEGIRO** - Low-cost EU option
 
 ## Regulatory Environment
 - **Primary Regulator**: CNBV (Comisión Nacional Bancaria y de Valores)
@@ -133,7 +110,7 @@
 
 ## Suitability Analysis
 ### Best For:
-- **Mexican Residents**: Optimal tax and regulatory treatment
+- **Investors**: Optimal tax and regulatory treatment
 - **Active Traders**: Comprehensive trading tools and research
 - **Wealth Management Clients**: Full-service investment management
 - **Large Portfolios**: Premium service tiers for high-net-worth individuals
@@ -150,7 +127,7 @@
 - **Counterparty Risk**: ⭐⭐⭐⭐⭐ (Low - CNBV oversight)
 - **Liquidity Risk**: ⭐⭐⭐⭐⭐ (Excellent - market leader volumes)
 
-## Overall Rating
-- **For Mexicans**: ⭐⭐⭐⭐⭐ (5/5) - Market leader, top choice
-- **For Germans**: ⭐⭐ (2/5) - Not accessible, tax complications
-- **Global Average**: ⭐⭐⭐⭐ (4/5) - Excellent for target market
+## 🇲🇽 Overall Rating for Mexican Investors
+⭐⭐⭐⭐⭐ **5/5 - Excellent Choice**
+
+**Perfect for**: Investors seeking comprehensive investment services with Smart Cash returns, automatic tax compliance, and professional research capabilities.

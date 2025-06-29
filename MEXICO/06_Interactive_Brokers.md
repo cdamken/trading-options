@@ -17,7 +17,7 @@
 - **Margin Trading**: Competitive margin rates
 - **Portfolio Margin**: Advanced margin calculations
 
-## Fee Structure (for Mexican Residents)
+## Fee Structure
 ### Trading Commissions
 - **US Stocks**: $0.005 per share (min $1.00)
 - **Mexican Stocks**: Competitive rates for BMV access
@@ -49,14 +49,14 @@
 
 ## Disadvantages
 - **Complexity**: Steep learning curve for beginners
-- **US Tax Reporting**: Complex tax implications for Mexican residents
+- **US Tax Reporting**: Complex tax implications for investors
 - **Currency Risk**: FX exposure for peso-based investors
 - **Platform Intimidation**: Can overwhelm casual investors
 - **Customer Service**: Limited Spanish language support
 - **Regulatory Complexity**: US vs Mexican regulatory differences
 - **Minimum Requirements**: Higher barriers for some account types
 
-## Tax Implications for Mexican Residents
+## Tax Implications for Investors
 ### US Source Income Complications
 - **W-8BEN Form**: Required for tax treaty benefits
 - **US Withholding**: 30% withholding on US dividends (reduced to 10% with treaty)
@@ -129,11 +129,11 @@
 - **Local Knowledge**: Less expertise in Mexican market specifics
 
 ## Risk Assessment
-- **Regulatory Risk**: ⭐⭐⭐⭐ (Good - strong US regulation, but foreign for Mexicans)
+- **Regulatory Risk**: ⭐⭐⭐⭐ (Good - strong US regulation, but foreign jurisdiction)
 - **Financial Stability**: ⭐⭐⭐⭐⭐ (Excellent - established global leader)
 - **Tax Complexity Risk**: ⭐⭐ (High - significant cross-border tax complications)
 - **Currency Risk**: ⭐⭐⭐ (Moderate - FX exposure for peso-based investors)
 - **Operational Risk**: ⭐⭐⭐⭐⭐ (Excellent - proven global platform)
 
 ## Overall Rating: 3.5/5
-**Excellent platform for sophisticated Mexican investors needing global market access and professional trading tools. Low costs and superior technology, but significant tax complexity and regulatory complications for Mexican residents. Best suited for experienced investors with international focus and professional tax support.**
+**Excellent platform for sophisticated investors needing global market access and professional trading tools. Low costs and superior technology, but significant tax complexity and regulatory complications for investors. Best suited for experienced investors with international focus and professional tax support.**

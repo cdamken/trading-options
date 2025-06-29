@@ -98,7 +98,7 @@
 ## Suitability Analysis
 
 ### ✅ Ideal For
-- **Mexican Residents**: Perfect for local tax and regulatory compliance
+- **Investors**: Perfect for local tax and regulatory compliance
 - **Mexican Market Focus**: Investors prioritizing Mexican assets
 - **Traditional Investors**: Prefer established, regulated brokers
 - **Peso Investors**: Want to avoid currency conversion
@@ -122,12 +122,6 @@
 - **Traditional** approach appeals to conservative investors
 
 ## Recommendations
-
-### For German Investors 🇩🇪
-- **Not Recommended**: No German tax integration or support
-- **Better Alternatives**: German brokers like Trade Republic, Scalable Capital
-- **If Considering**: Only for Mexican market exposure
-- **Complexity**: Would require manual German tax reporting
 
 ### For Mexican Investors 🇲🇽
 - **Consider if**: You focus primarily on Mexican investments

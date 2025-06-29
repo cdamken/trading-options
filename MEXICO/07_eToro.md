@@ -53,12 +53,12 @@
 - **Spread Markups**: Significant hidden costs in spreads
 - **Limited Real Stocks**: Many "stocks" are actually CFDs
 - **Foreign Regulation**: Not regulated by Mexican authorities (CNBV)
-- **Tax Complexity**: Complicated tax reporting for Mexican residents
+- **Tax Complexity**: Complicated tax reporting for investors
 - **Customer Service**: Limited Spanish language support
 - **Withdrawal Delays**: Can take several days for withdrawals
 - **Account Restrictions**: Various limitations for non-EU residents
 
-## Tax Implications for Mexican Residents
+## Tax Implications for Investors
 ### Foreign Broker Complications
 - **No CNBV Regulation**: No automatic Mexican tax compliance
 - **Manual Reporting**: Must manually report all gains/losses to SAT
@@ -81,7 +81,7 @@
 ## Regulatory Environment
 - **Mexican Perspective**: Not regulated by CNBV, operates as foreign broker
 - **Primary Regulation**: CySEC (Cyprus), FCA (UK), ASIC (Australia)
-- **Consumer Protection**: Limited protection for Mexican residents
+- **Consumer Protection**: Limited protection for investors
 - **Dispute Resolution**: Must pursue disputes in foreign jurisdictions
 - **Regulatory Changes**: Subject to changing international regulations
 
@@ -137,4 +137,4 @@
 - **Currency Risk**: ⭐⭐⭐ (Moderate - forced USD exposure)
 
 ## Overall Rating: 2.5/5
-**Not recommended for Mexican investors due to regulatory, tax, and cost complications. While the social trading features are innovative, the lack of CNBV regulation, complex tax implications, CFD focus, and significant hidden costs in spreads make it unsuitable for most Mexican residents. Local alternatives provide better regulatory protection and tax simplicity.**
+**Not recommended for Mexican investors due to regulatory, tax, and cost complications. While the social trading features are innovative, the lack of CNBV regulation, complex tax implications, CFD focus, and significant hidden costs in spreads make it unsuitable for most investors. Local alternatives provide better regulatory protection and tax simplicity.**

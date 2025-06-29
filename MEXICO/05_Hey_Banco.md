@@ -66,7 +66,7 @@ Hey Banco is Mexico's leading digital-first bank, launched in 2017 as a subsidia
 - **Banking subsidiary**: Operates under established Banregio framework
 
 ### Tax Handling
-- **Automatic withholding**: Built-in ISR compliance for Mexican residents
+- **Automatic withholding**: Built-in ISR compliance for investors
 - **Digital records**: Easy access to tax documentation
 - **SAT integration**: Streamlined tax reporting capabilities
 - **Simplified compliance**: Automated tax record keeping
@@ -101,7 +101,7 @@ Hey Banco is Mexico's leading digital-first bank, launched in 2017 as a subsidia
 | Minimum Investment | $0 MXN minimum balance |
 | Platform | Mobile-first app |
 | Regulation | CNBV (full banking license) |
-| Target Market | Mexican residents |
+| Target Market | Investors |
 
 ## 🎯 Recommendations
 
@@ -120,39 +120,14 @@ Hey Banco is Mexico's leading digital-first bank, launched in 2017 as a subsidia
 - **Traditional investors** preferring in-person service
 - **Conservative users** wanting established institutions
 
-### 🇩🇪 For German Investors
-
-#### Advantages
-- **Digital innovation**: Modern fintech approach similar to German neobanks
-- **Competitive rates**: Attractive savings and investment returns
-- **Mobile-first design**: Familiar approach for European fintech users
-
-#### Disadvantages
-- **Geographic restriction**: Not available for German residents
-- **Account opening**: Requires Mexican residency and documentation
-- **Currency risk**: MXN exposure for German investors
-- **Regulatory distance**: Mexican banking regulation unfamiliar
-- **Limited relevance**: No European market access
-
-#### Tax Implications
-- **Not applicable**: Platform not accessible to German residents
-- **Hypothetical complexity**: Would require complex cross-border reporting
-- **Professional advice**: Any hypothetical use would require tax consultation
-
 ## 📈 Overall Rating
 
-### Mexican Investors: ⭐⭐⭐⭐☆ (4/5)
+### Rating: ⭐⭐⭐⭐☆ (4/5)
 **Excellent digital banking with solid investment options**
 - Outstanding user experience and innovation
 - Competitive rates and minimal fees
 - Strong regulatory protection (CNBV/IPAB)
 - Limited investment options and international access
-
-### German Investors: N/A
-**Not available for German residents**
-- Platform restricted to Mexican market
-- Not accessible for international customers
-- Consider German neobanks with similar digital-first approach
 
 ---
 

@@ -1,6 +1,6 @@
 # Mexican Investment Broker Analysis
 
-This folder contains a comprehensive analysis of investment platforms available to Mexican residents, focusing on regulatory compliance, cost structures, tax implications, and suitability for different investor types.
+This folder contains a comprehensive analysis of investment platforms available to investors, focusing on regulatory compliance, cost structures, tax implications, and suitability for different investor types.
 
 ## 📁 File Structure
 
@@ -108,7 +108,7 @@ Foreign platforms like Interactive Brokers and eToro require:
 
 ## 📈 Mexican Market Advantages
 
-Unlike German investors who face complex EU regulations and cross-border tax issues, Mexican investors benefit from:
+Mexican investors benefit from a well-regulated and simplified investment environment:
 
 1. **Simplified Regulation**: Single CNBV oversight for all major platforms
 2. **Tax Efficiency**: Automatic withholding and simplified reporting

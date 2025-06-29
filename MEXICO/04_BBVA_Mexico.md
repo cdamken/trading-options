@@ -14,7 +14,7 @@ BBVA México is one of Mexico's largest banks, offering investment services inte
 ### Banking Integration
 - **Seamless services**: Banking and investment in one platform
 - **Extensive branch network**: 1,800+ physical locations nationwide
-- **Customer familiarity**: Many Mexicans already bank with BBVA
+- **Customer familiarity**: Many residents already bank with BBVA
 - **Convenience**: One-stop financial services
 - **Cross-product benefits**: Package discounts for existing customers
 
@@ -69,7 +69,7 @@ BBVA México is one of Mexico's largest banks, offering investment services inte
 
 ### Tax Handling
 - **Automatic compliance**: Bank handles Mexican tax withholding requirements
-- **ISR integration**: Simplified income tax reporting for Mexican residents
+- **ISR integration**: Simplified income tax reporting for investors
 - **Professional documentation**: Comprehensive tax reporting for annual declarations
 - **CETES access**: Easy access to tax-efficient government bonds
 - **Retirement planning**: Tax-advantaged retirement products available
@@ -122,38 +122,14 @@ BBVA México is one of Mexico's largest banks, offering investment services inte
 - **Self-directed investors** (limited control and options)
 - **International diversifiers** (primarily domestic focus)
 
-### 🇩🇪 For German Investors
-
-#### Advantages
-- **Banking integration**: Similar to German universal bank model
-- **Conservative approach**: Familiar risk management culture
-- **Established institution**: Strong financial backing
-
-#### Disadvantages
-- **Geographic restriction**: Not available for German residents
-- **Limited relevance**: No European market access
-- **Higher costs**: Bank markup model familiar but expensive
-- **Account requirements**: Would require Mexican banking relationship
-
-#### Tax Implications
-- **Not applicable**: Service not available to German residents
-- **Complex reporting**: Would require extensive cross-border compliance
-- **Professional consultation**: Any consideration would need specialized advice
-
 ## 📈 Overall Rating
 
-### Mexican Investors: ⭐⭐⭐☆☆ (3/5)
+### Rating: ⭐⭐⭐☆☆ (3/5)
 **Convenient but expensive banking-integrated investment solution**
 - Good for existing BBVA customers seeking convenience
 - Strong regulatory protection and banking integration
 - Higher fees and limited options vs. specialized brokers
 - Best for conservative investors prioritizing convenience
-
-### German Investors: N/A
-**Not available for German residents**
-- Service restricted to Mexican banking customers
-- Similar banking-integrated investment services available in Germany
-- Consider German universal banks for equivalent approach
 
 ---
 

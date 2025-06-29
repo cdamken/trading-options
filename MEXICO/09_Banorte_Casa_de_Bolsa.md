@@ -44,20 +44,6 @@
 
 **Best For:** High-net-worth Mexican investors, those wanting full-service banking integration, conservative investors
 
-### For German Investors ⭐
-**Advantages:**
-- Access to Mexican market
-- Peso-denominated investments
-- Local market expertise
-
-**Disadvantages:**
-- Account opening only for Mexican residents
-- No German customer support
-- No German/EU regulatory protection
-- Complex cross-border tax implications
-
-**Best For:** German investors with Mexican residency or specific emerging market focus
-
 ## Overall Rating: 7.0/10
 
 ## Regulatory & Tax Information

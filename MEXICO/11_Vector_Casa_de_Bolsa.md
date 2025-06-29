@@ -124,12 +124,6 @@
 
 ## Recommendations
 
-### For German Investors 🇩🇪
-- **Not Recommended**: High costs and no German integration
-- **Better Options**: German brokers for cost and tax efficiency
-- **If Considering**: Only for significant Mexican market exposure
-- **Minimum Viable**: Would need €50,000+ portfolio to justify costs
-
 ### For Mexican Investors 🇲🇽
 - **Consider if**: You have $100,000+ MXN and want full service
 - **Pros**: Professional advisory, international access, comprehensive service

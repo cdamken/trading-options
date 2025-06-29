@@ -125,12 +125,6 @@
 
 ## Recommendations
 
-### For German Investors 🇩🇪
-- **Not Recommended**: High fees and limited German market access
-- **Better Alternatives**: German brokers for cost efficiency
-- **If Considering**: Only for North American market exposure
-- **Banking Relationship**: Would need Canadian banking relationship for benefits
-
 ### For Mexican Investors 🇲🇽
 - **Consider if**: You're already a Scotiabank customer
 - **Pros**: Free for bank customers, North American access, advisory services

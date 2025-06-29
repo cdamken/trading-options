@@ -2,26 +2,26 @@
 
 ## Executive Summary for Mexican Investors
 
-This comprehensive analysis examines 14 investment platforms available exclusively to Mexican residents, focusing on CNBV regulatory compliance, Mexican tax efficiency, peso-denominated investing, and local market access. All rankings prioritize factors most relevant to Mexican investors living in Mexico.
+This comprehensive analysis examines 14 investment platforms available exclusively to local investors, focusing on CNBV regulatory compliance, Mexican tax efficiency, peso-denominated investing, and local market access. All rankings prioritize factors most relevant to investors living in Mexico.
 
 ## 🇲🇽 Quick Comparison Table for Mexican Investors
 
-| Broker | Type | Min. Investment | Trading Fees | CNBV Regulation | Best For Mexican Investors | Rating |
+| Broker | Type | Min. Investment | Trading Fees | CNBV Regulation | Best For | Rating |
 |--------|------|----------------|--------------|-----------------|---------------------------|--------|
 | **GBM** | Full-Service | No minimum (Plus) | 0.25-0.50% | ✅ CNBV | Mexican market leaders, comprehensive service | ⭐⭐⭐⭐⭐ 4.5/5 |
 | **Kuspit** | Digital Platform | $100 MXN | 0.15-0.35% | ✅ CNBV | Mexican beginners, education-focused | ⭐⭐⭐⭐ 4.0/5 |
 | **Hey Banco** | Digital Bank | No minimum | Competitive | ✅ CNBV (Banregio) | Mexican digital natives, banking integration | ⭐⭐⭐⭐ 3.8/5 |
 | **Bursanet** | Online Broker | $10,000 MXN | 0.25% min $25 MXN | ✅ CNBV | Independent Mexican traders, research | ⭐⭐⭐⭐ 3.7/5 |
-| **Actinver** | Wealth Management | $500K+ MXN | 1.5-3.0% annually | ✅ CNBV | High-net-worth Mexicans, advisory | ⭐⭐⭐⭐ 3.5/5 |
+| **Actinver** | Wealth Management | $500K+ MXN | 1.5-3.0% annually | ✅ CNBV | High-net-worth individuals, advisory | ⭐⭐⭐⭐ 3.5/5 |
 | **Vector Casa de Bolsa** | Traditional Broker | $20,000 MXN | 0.25-0.50% | ✅ CNBV | Professional Mexican investors | ⭐⭐⭐ 3.3/5 |
-| **Banorte** | Traditional Bank | Varies | 1.5-3.5% annually | ✅ CNBV | Conservative Mexicans, banking integration | ⭐⭐⭐ 3.2/5 |
+| **Banorte** | Traditional Bank | Varies | 1.5-3.5% annually | ✅ CNBV | Conservative investors, banking integration | ⭐⭐⭐ 3.2/5 |
 | **Scotiabank Casa de Bolsa** | Bank Broker | $50,000 MXN | 0.30-0.60% | ✅ CNBV | Scotiabank Mexican clients | ⭐⭐⭐ 3.1/5 |
 | **BBVA México** | Bank Investment | Varies | 1.0-3.0% annually | ✅ CNBV | BBVA Mexican customers | ⭐⭐⭐ 3.0/5 |
 | **Banco Multiva** | Bank/Fund Provider | $100,000+ MXN | 1.5-2.5% annually | ✅ CNBV | Mexican fund investors (NOT direct brokerage) | ⭐⭐ 2.8/5 |
 | **Interactive Brokers** | Global Platform | $2,000 USD | $0.005/share | ❌ US Regulation | Mexican professionals needing global access* | ⭐⭐⭐ 3.5/5 |
-| **eToro** | Social Trading | $200 USD | 0% stocks, wide spreads | ❌ Cyprus Regulation | NOT recommended for Mexicans | ⭐⭐ 2.5/5 |
+| **eToro** | Social Trading | $200 USD | 0% stocks, wide spreads | ❌ Cyprus Regulation | NOT recommended | ⭐⭐ 2.5/5 |
 
-*Non-CNBV brokers require complex tax reporting for Mexican residents
+*Non-CNBV brokers require complex tax reporting for local investors
 
 ## Detailed Ranking: Best to Worst
 
@@ -141,7 +141,7 @@ This comprehensive analysis examines 14 investment platforms available exclusive
 **Tax Complexity:** ⭐⭐⭐⭐⭐ (Excellent - automatic CNBV compliance)
 
 ### 5. Interactive Brokers - 3.5/5
-**Global access with significant complications for Mexicans**
+**Global access with significant local complications**
 
 **Strengths:**
 - Unmatched global market access (135+ markets)
@@ -151,7 +151,7 @@ This comprehensive analysis examines 14 investment platforms available exclusive
 - Strong US regulation (SEC, FINRA, SIPC)
 
 **Weaknesses:**
-- Complex cross-border tax implications for Mexican residents
+- Complex cross-border tax implications for investors
 - No CNBV regulation or local investor protection
 - Steep learning curve and intimidating for beginners
 - Limited Spanish language support
@@ -262,7 +262,7 @@ This comprehensive analysis examines 14 investment platforms available exclusive
 - Limited Spanish support and Mexican market knowledge
 - Forced USD exposure creating currency risk
 
-**Best For:** NOT RECOMMENDED for Mexican residents due to regulatory and tax complications
+**Best For:** NOT RECOMMENDED due to regulatory and tax complications
 **Tax Complexity:** ⭐ (Poor - complex foreign account reporting, no local support)
 
 ## Key Decision Factors for Mexican Investors
@@ -338,10 +338,7 @@ This comprehensive analysis examines 14 investment platforms available exclusive
 
 **Mexican Market Benefits**: High peso interest rates provide excellent cash management opportunities compared to international alternatives.
 
-#### Comparison with German Market:
-- **Mexican Advantage**: 10-11% MXN returns vs 2-3% EUR returns
-- **Currency Consideration**: Peso strength vs Euro stability
-- **Liquidity**: GBM Smart Cash offers daily liquidity with high returns
+
 
 ### 🥇 Lowest Account Minimums for Mexican Investors
 
@@ -384,7 +381,7 @@ This comprehensive analysis examines 14 investment platforms available exclusive
 - **Minimum Investment**: $500K+ MXN for premium services
 - **Comprehensive Planning**: Full financial planning and tax optimization
 
-### Digital-Native Strategy (Tech-Savvy Mexicans):
+### Digital-Native Strategy (Tech-Savvy Investors):
 - **Primary Platform**: **Hey Banco** for integrated banking and investing
 - **Modern Interface**: AI-powered features and seamless UX
 - **Banking Integration**: No need for separate investment accounts
@@ -399,39 +396,37 @@ This comprehensive analysis examines 14 investment platforms available exclusive
 - **Withdrawal Limitations**: Some platforms limit free peso withdrawals
 - **International Transfer**: Cross-border transfer fees for foreign platforms
 
-### Mexican vs German Hidden Costs:
+### Mexican vs International Hidden Costs:
 - **Mexican Advantage**: More transparent fee structures, less payment-for-order-flow
-- **German Complexity**: More hidden spreads in "commission-free" platforms
-- **Regulatory Transparency**: CNBV requires clearer fee disclosure than some EU brokers
+- **International Complexity**: More hidden spreads in "commission-free" platforms
+- **Regulatory Transparency**: CNBV requires clearer fee disclosure than some international brokers
 
 ## 📊 Total Cost of Ownership Examples
 
-### Small Investor ($50,000 MXN / €2,500):
+### Small Investor ($50,000 MXN / $2,500 USD):
 **Mexican Options:**
 - **Kuspit**: ~$175-875 MXN annually (0.35-1.75%)
 - **GBM**: ~$125-2,500 MXN annually (0.25-5.0%)
 - **Hey Banco**: Similar to GBM Plus rates
 
-**German Equivalent:**
-- **Trade Republic**: ~€24 annually (12 trades × €1 + spreads)
-- **Scalable Capital**: ~€12 annually (ETF focus)
+**International Comparison:**
+- **Most foreign brokers**: $50-250 USD annually plus complex tax compliance costs
 
-### Medium Investor ($500,000 MXN / €25,000):
+### Medium Investor ($500,000 MXN / $25,000 USD):
 **Mexican Options:**
 - **GBM Personal**: ~$1,250-2,500 MXN (0.25-0.50%) + Smart Cash benefits
 - **Actinver**: ~$5,000-15,000 MXN (1.0-3.0%) but with advisory
 
-**German Equivalent:**
-- **Trade Republic/Scalable**: ~€50-100 annually
-- **Interactive Brokers**: ~€75-150 annually
+**International Comparison:**
+- **Most foreign brokers**: $100-400 USD annually plus tax complexity
 
-### Large Investor ($2,000,000+ MXN / €100,000+):
+### Large Investor ($2,000,000+ MXN / $100,000+ USD):
 **Mexican Options:**
 - **GBM Premium/Private**: 0.15-0.30% + premium services
 - **Actinver**: 1.0-2.0% with full wealth management
 
-**German Equivalent:**
-- **Interactive Brokers**: ~€200-500 annually
+**International Comparison:**
+- **Most foreign brokers**: $500-2,000+ USD annually with complex tax reporting
 ## 🎯 Final Investment Platform Recommendations for Mexican Investors
 
 ### By Investment Experience Level:
@@ -447,7 +442,7 @@ This comprehensive analysis examines 14 investment platforms available exclusive
 - **Educational Journey**: Kuspit with $1M MXN simulator
 
 ### 🚫 Platforms Mexican Investors Should Avoid:
-- **eToro**: Wide spreads and complex tax reporting for Mexican residents
+- **eToro**: Wide spreads and complex tax reporting for local investors
 - **Non-CNBV Platforms**: Regulatory complications and tax complexity
 - **High-Fee Traditional Banks**: Limited value vs modern alternatives
 
@@ -457,7 +452,7 @@ This comprehensive analysis examines 14 investment platforms available exclusive
 
 The key is matching your platform choice to your investment experience, portfolio size, and service preferences while prioritizing CNBV-regulated options for optimal tax treatment and investor protection.
 
-The Mexican investment landscape offers something for everyone, from Kuspit's educational focus for beginners to GBM's comprehensive services for active traders and Actinver's wealth management for high-net-worth individuals. Unlike German investors who must navigate complex EU regulations and cross-border tax issues, Mexican investors can focus on building wealth through locally regulated, tax-efficient platforms.
+The Mexican investment landscape offers something for everyone, from Kuspit's educational focus for beginners to GBM's comprehensive services for active traders and Actinver's wealth management for high-net-worth individuals. Mexican investors can focus on building wealth through locally regulated, tax-efficient platforms with strong CNBV oversight.
 
 # International Banking Options for Mexican Investors
 
@@ -466,7 +461,7 @@ The Mexican investment landscape offers something for everyone, from Kuspit's ed
 #### **🇺🇸 US Banks with International Services**
 
 ##### **Charles Schwab International**
-- **Account Opening**: ⭐⭐ Very difficult for Mexican residents
+- **Account Opening**: ⭐⭐ Very difficult for local investors
 - **Minimum Requirements**: $25,000+ USD for international clients
 - **Deposit Protection**: FDIC insured up to $250,000 (cash), SIPC up to $500,000 (securities)
 - **Investment Options**: Comprehensive US and global markets
@@ -481,7 +476,7 @@ The Mexican investment landscape offers something for everyone, from Kuspit's ed
 - **Recommendation**: Same issues as Schwab - avoid
 
 ##### **Fidelity International**
-- **Account Opening**: ⭐⭐ Limited services for Mexican residents
+- **Account Opening**: ⭐⭐ Limited services for local investors
 - **Requirements**: High minimums, extensive documentation
 - **Tax Implications**: Similar to Schwab - very complex
 - **Overall Recommendation**: ❌ NOT RECOMMENDED
@@ -509,7 +504,7 @@ The Mexican investment landscape offers something for everyone, from Kuspit's ed
 #### **🇸🇬 Singapore Banks (Asian Market Access)**
 
 ##### **DBS Vickers**
-- **Account Opening**: ⭐⭐⭐ Moderate difficulty for Mexicans
+- **Account Opening**: ⭐⭐⭐ Moderate difficulty for investors
 - **Minimum Requirements**: SGD 10,000+ typical
 - **Deposit Protection**: Singapore Deposit Insurance up to SGD 100,000
 - **Investment Focus**: Asian markets primarily
@@ -523,7 +518,7 @@ The Mexican investment landscape offers something for everyone, from Kuspit's ed
 - **Account Opening**: ⭐⭐ Difficult, requires substantial relationship
 - **Minimum Requirements**: £50,000+ for investment accounts
 - **Deposit Protection**: FSCS up to £85,000
-- **Tax Implications**: UK withholding taxes, complex for Mexicans
+- **Tax Implications**: UK withholding taxes, complex local reporting
 - **Overall Recommendation**: ⭐⭐ LIMITED VALUE - Brexit complications
 
 #### **🇨🇭 Swiss Banks (Premium Option)**
@@ -539,7 +534,7 @@ The Mexican investment landscape offers something for everyone, from Kuspit's ed
 
 ### 🛡️ Deposit Protection Comparison for Mexican Investors
 
-| Country/Bank | Protection Scheme | Coverage Amount | Reliability | Access for Mexicans |
+| Country/Bank | Protection Scheme | Coverage Amount | Reliability | Local Access |
 |-------------|------------------|-----------------|-------------|-------------------|
 | **🇲🇽 Mexico (CNBV)** | IPAB + CNBV | $400,000 MXN (deposits) + investor protection | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ Perfect |
 | **🇺🇸 United States** | FDIC + SIPC | $250,000 + $500,000 | ⭐⭐⭐⭐⭐ | ⭐⭐ Very difficult |
@@ -548,7 +543,7 @@ The Mexican investment landscape offers something for everyone, from Kuspit's ed
 | **🇸🇬 Singapore** | SDIC | SGD 100,000 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ Moderate |
 | **🇬🇧 United Kingdom** | FSCS | £85,000 | ⭐⭐⭐⭐ | ⭐⭐ Difficult |
 
-### 📋 Account Opening Ease for Mexican Residents
+### 📋 Account Opening Ease for Local Investors
 
 #### **✅ EASIEST TO OPEN (Recommended)**
 1. **Mexican CNBV Brokers** - GBM, Kuspit, Hey Banco, Actinver
@@ -676,4 +671,4 @@ The Mexican investment landscape offers something for everyone, from Kuspit's ed
 
 ---
 
-*This analysis is designed specifically for Mexican residents and considers Mexican tax law, CNBV regulation, and peso-denominated investing. Information current as of 2025. Always verify current terms and conditions directly with brokers before making investment decisions.*
+*This analysis is designed specifically for investors in Mexico and considers Mexican tax law, CNBV regulation, and peso-denominated investing. Information current as of 2025. Always verify current terms and conditions directly with brokers before making investment decisions.*

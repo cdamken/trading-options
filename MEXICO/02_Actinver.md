@@ -120,39 +120,14 @@ Actinver is Mexico's premier traditional wealth management firm, founded in 1994
 - **Technology-focused users** preferring digital platforms
 - **DIY investors** wanting investment control
 
-### 🇩🇪 For German Investors
-
-#### Advantages
-- **Professional management**: Similar to German private banks
-- **Comprehensive service**: Wealth management approach familiar to Germans
-- **Regulatory compliance**: Full Mexican regulatory oversight
-
-#### Disadvantages
-- **Geographic restriction**: Not available for German residents
-- **High minimums**: Significant investment requirements
-- **Currency risk**: MXN exposure for German investors
-- **Tax complexity**: Cross-border tax complications
-- **Limited relevance**: No European market access
-
-#### Tax Implications
-- **Not applicable**: Service not available to German residents
-- **Complex structure**: Would require extensive cross-border planning
-- **Professional advice**: Any consideration would need tax consultation
-
 ## 📈 Overall Rating
 
-### Mexican Investors: ⭐⭐⭐⭐☆ (4/5)
+### Rating: ⭐⭐⭐⭐☆ (4/5)
 **Excellent for high-net-worth comprehensive wealth management**
 - Outstanding professional service and expertise
 - Strong regulatory protection and compliance
 - High fees but justified by personalized service
 - Not suitable for smaller investors or self-directed traders
-
-### German Investors: N/A
-**Not available for German residents**
-- Service restricted to Mexican market
-- Similar premium wealth management available in Germany
-- Consider German private banks for equivalent service
 
 ---
 

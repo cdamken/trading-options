@@ -53,7 +53,7 @@
 - **Conflict of Interest**: May prioritize bank products over optimal investments
 - **Bureaucracy**: Bank processes can be slow and complex
 
-## Tax Implications for Mexican Residents
+## Tax Implications for Investors
 ### CNBV Regulation Benefits
 - **Automatic Compliance**: Bank manages tax withholding requirements
 - **ISR Documentation**: Comprehensive tax reporting for annual declarations

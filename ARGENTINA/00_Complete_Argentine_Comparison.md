@@ -9,16 +9,12 @@ This analysis evaluates investment platforms available to investors in Argentina
 
 | Broker | Cost | Best For | Regulation | USD Access | Key Advantage |
 |--------|------|---------------------------|-------------------|--------------|---------------------|
-| **Balanz** | 0.50% + spreads | Local professional investors | 🇦🇷 CNV | ✅ MEP/CCL | Local expertise |
-| **InvertirOnline (IOL)** | 0.25-0.75% | Argentine retail investors | 🇦🇷 CNV | ✅ Limited | Low cost, local |
-| **Binance** | 0.10% spot | Crypto-first investors | 🇲🇹 Malta | ✅ Crypto/USD | Global crypto access |
-| **Bull Market Brokers** | 0.60% + spreads | Traditional investors | 🇦🇷 CNV | ✅ MEP | Argentine focus |
-| **Cocos Capital** | 0.50% + spreads | High-net-worth investors | 🇦🇷 CNV | ✅ MEP/CCL | Premium service |
-| **PPI** | 0.45-0.85% | Comprehensive investors | 🇦🇷 CNV | ✅ MEP | Full service |
-| **Interactive Brokers** | $0.35-$1 | International investors | 🇺🇸 SEC/CFTC | ✅ Full USD | Global markets |
-| **Rava Bursátil** | 0.40-0.70% | Local traders | 🇦🇷 CNV | ✅ Limited | Trading focus |
-| **Lemon Cash** | 0% spot | Young crypto investors | 🇦🇷 CNV | ✅ Crypto/USD | Mobile-first |
-| **Ripio** | 0.50% crypto | Crypto beginners | 🇦🇷 CNV | ✅ Crypto only | Simple crypto |
+| **Balanz** | 0.50% + spreads | High-net-worth investors | 🇦🇷 CNV | ✅ MEP/CCL | Premium wealth management |
+| **Interactive Brokers** | $0.35-$1 | International investors | �� SEC/CFTC | ✅ Full USD | Global markets access |
+| **InvertirOnline (IOL)** | 0.25-0.75% | Argentine retail investors | 🇦🇷 CNV | ✅ Limited | Lowest cost, local leader |
+| **Binance** | 0.10% spot | Crypto-first investors | �� Malta | ✅ Crypto/USD | Global crypto leader |
+| **Lemon Cash** | 0% spot | Young crypto investors | 🇦🇷 CNV | ✅ Crypto/USD | Mobile-first, CNV regulated |
+| **Bull Market Brokers** | 0.60% + spreads | Traditional investors | 🇦🇷 CNV | ✅ MEP | Traditional brokerage |
 
 ## 🇦🇷 Argentine Market Context
 
